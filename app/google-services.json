@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626586466751",
+    "firebase_url": "https://istio-mesh-214206.firebaseio.com",
+    "project_id": "istio-mesh-214206",
+    "storage_bucket": "istio-mesh-214206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626586466751:android:9470f5820b70e17b",
+        "android_client_info": {
+          "package_name": "com.jessicathornsby.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626586466751-gdjkfe0jdr38gm1e7uvrobjkp6movbie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jessicathornsby.tracking",
+            "certificate_hash": "a06c541f59d3ba39de7a64137c978a0d28f625a1"
+          }
+        },
+        {
+          "client_id": "626586466751-v0km2rf2f9dla8uop1n79pdjsdi98etf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIYFJoIjqNDoQmkQMgO6DbaZbtshQuOpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626586466751-v0km2rf2f9dla8uop1n79pdjsdi98etf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
